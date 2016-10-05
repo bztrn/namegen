@@ -1,0 +1,19 @@
+{
+    "name": "stefan/namegen",
+    "authors": [
+        {
+            "name": "Stefan Adolf",
+            "email": "stefan.adolf@m-cube.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+    "psr-4": {
+      "Stefan\\": "src"
+    }
+  },
+    "require": {
+        "symfony/console": "^3.1",
+        "phois/whois": "dev-master"
+    }
+}

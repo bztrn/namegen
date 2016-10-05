@@ -1,0 +1,9 @@
+# The Usual Suspects
+.idea
+.DS_Store
+.project
+.vagrant
+*.iml
+*.log
+
+/vendor
